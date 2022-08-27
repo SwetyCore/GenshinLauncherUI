@@ -113,14 +113,14 @@
                     <TabItem Header="活动" Style="{DynamicResource TabItemStyle1}">
                         <StackPanel>
                             <TextBlock Margin="10">
-                                测试项目：<Hyperlink Cursor="Hand" NavigateUri="http://www.tianma3798.cn">www.test.cn</Hyperlink>
+                                测试项目：<Hyperlink Cursor="Hand" NavigateUri="https://github.com/SwetyCore/GenshinLauncher">SwetyCore/GenshinLauncher</Hyperlink>
                             </TextBlock>
                         </StackPanel>
                     </TabItem>
                     <TabItem Header="公告" Style="{DynamicResource TabItemStyle1}">
                         <StackPanel>
                             <TextBlock Margin="10">
-                                默认：<Hyperlink Cursor="Hand" NavigateUri="http://www.tianma3798.cn">www.tianma3798.cn</Hyperlink>
+                                默认：<Hyperlink Cursor="Hand" NavigateUri="https://github.com/SwetyCore/GenshinLauncher">SwetyCore/GenshinLauncher</Hyperlink>
                             </TextBlock>
                         </StackPanel>
                     </TabItem>
